@@ -1,0 +1,20 @@
+
+.navbar_brand{
+    font-size: 1.9rem;
+    color: #565387;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #3498bd !important;
+    
+}
+.menu_active{
+font-weight: bold;
+border-bottom: 1px solid #565387;
+}
+
+.nav_bg{
+    background-color:#9db9d6;
+
+}
